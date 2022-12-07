@@ -27,7 +27,7 @@ const translations = {
     buttonLogin: "Login",
     buttonLogout: "Logout",
     mainWelcome: "Welcome Guest",
-    mainHello: "Hello User",
+    mainHello: "Hello User!",
     mainContent: "My main content",
     footerTitle: "My footer",
   },
